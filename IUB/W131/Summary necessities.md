@@ -1,0 +1,5 @@
+Comprehensive
+Brief
+Accurate
+Neutral
+Independent

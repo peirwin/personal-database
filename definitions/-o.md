@@ -1,0 +1,1 @@
+specifies executable name

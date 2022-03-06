@@ -1,0 +1,11 @@
+Pete Irwin
+W131
+2/11/2022
+
+### (INSERT TITLE)
+
+The reputation of the United States remains one of the weirdest in the world. We have much more ethnic diversity when compared to other western countries, yet when it comes to cultural diversity, the US has the second lowest ethnic div to cultural div ratio in the west. In 2003, Stanford released a global ethnic and cultural diversity research paper, where it found the United States to be within the top 25% of western countries when it came to ethnic diversity with an ethnic fraction of .491. The same study concluded that the US had a weirdly small cultural fraction of .271, 55% lower than the ethnic fraction. When that ratio is compared to the rest of the western world, the US is within the bottom 5%, indicating an unusual homogeny of culture. These statistics indicate the United States to be an outlier within this category of social index, which prompts the question as to why this is the case. One insight can be seen within historical literature written by people of color. Consider the work of James Baldwin's *If Black English isn't a language, then tell me, what is?*, where he illustrates his frustration with the identity crisis of black americans. Consider the work of Gloria Anzaldua's *How to tame a wild tongue*, where she shares her challenging experience in America as a person of color. Both Anzaldua and Baldwin tie their arguments with a theme of isolation from identity. They both use challenging rhetoric and emotional appeal as devicees to put pressure on those upholding the isolation of secordary cultures within the United States.
+
+Both Anzaldua and Baldwin structure the onset of their essays around their personal experience as a person of color in America. They both give examples of how the POC experience is filled with obstacles. Baldwin does it by exploring how language theoretically presents political challenges. Anzualda does it by exploring her personal experience with how her community unwillingly dissolved into american culture due to it's overwhelming influence. 
+
+Both Baldwin and Anzaldua also use devices in their essay in order to criticize/put pressure on the system. Baldwin uses direct criticism while Anzaldua uses indirect criticism. 

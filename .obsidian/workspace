@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "6c6771a5d64770b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e3bd5d081c005eb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IUB/CSCI241/homeworks/hw7.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f104c3719aa0078",
+    "type": "split",
+    "children": [
+      {
+        "id": "d658fab0bfd21711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3de47ddc4bc47ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6950f774cf99001",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.00377655029297
+  },
+  "right": {
+    "id": "5b4a99d87b2fbbd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1312a589e668b0d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d227dca99ef16e52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IUB/CSCI241/homeworks/hw7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f077c50ebfb723cf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b1e28fe617e36ed",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "20f904e78500bf29",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7e3bd5d081c005eb",
+  "lastOpenFiles": [
+    "IUB/CSCI241/homeworks/hw7.md",
+    "IUB/CSCI241/HW7.pdf",
+    "IUB/CSCI241/Wenstromm notes (class ref).pdf",
+    "IUB/CSCI241/notes/First Order Logic.md",
+    "IUB/CSCI241/homeworks/hw4.md",
+    "IUB/CSCI241/homeworks/hw5.md",
+    "IUB/CSCI241/homeworks/hw6a.md",
+    "IUB/CSCI241/homeworks/hw7mini.md",
+    "IUB/CSCI241/notes/Propositional Logic.md",
+    "IUB/CSCI241/homeworks/Quiz.md"
+  ]
+}
